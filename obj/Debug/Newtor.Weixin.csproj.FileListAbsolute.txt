@@ -1,0 +1,10 @@
+D:\work\dotnet\Newtor.Weixin\obj\Debug\ResolveAssemblyReference.cache
+D:\work\dotnet\Newtor.Weixin\bin\Debug\Newtor.Weixin.dll
+D:\work\dotnet\Newtor.Weixin\bin\Debug\Newtor.Weixin.pdb
+D:\work\dotnet\Newtor.Weixin\obj\Debug\Newtor.Weixin.dll
+D:\work\dotnet\Newtor.Weixin\obj\Debug\Newtor.Weixin.pdb
+D:\SkyDrive\项目\Newtor.Weixin\bin\Debug\Newtor.Weixin.dll
+D:\SkyDrive\项目\Newtor.Weixin\bin\Debug\Newtor.Weixin.pdb
+D:\SkyDrive\项目\Newtor.Weixin\obj\Debug\ResolveAssemblyReference.cache
+D:\SkyDrive\项目\Newtor.Weixin\obj\Debug\Newtor.Weixin.dll
+D:\SkyDrive\项目\Newtor.Weixin\obj\Debug\Newtor.Weixin.pdb
